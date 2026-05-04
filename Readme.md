@@ -20,7 +20,9 @@ Full-stack dev who builds web apps and the occasional desktop tool. Pinned repos
 
 **Desktop**  
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -38,4 +40,5 @@ Full-stack dev who builds web apps and the occasional desktop tool. Pinned repos
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Mrroboto9819)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pablo-cabrera-castrejon-7102a5200/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pablo_cabrera09/)
-[![Website](https://img.shields.io/badge/Website-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://pablocabrera.org/)
+[![Website](https://img.shields.io/badge/Website-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://pablocabrera.dev/)
+
